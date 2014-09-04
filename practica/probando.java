@@ -11,6 +11,11 @@
 public class probando {
 
 
-}
 
-public static void main (String []
+
+public static void main (String [] arguments) {
+    System.out.println("Hola juancho");
+    System.out.println("Hola pipito");
+
+}
+}
